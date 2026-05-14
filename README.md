@@ -117,8 +117,6 @@ Assets/
 
 ## 📹 Demo
 
-![Demo](media/demo.mp4)
-
 https://github.com/user-attachments/assets/0f3273d9-c59d-4467-88b4-2fa524457f1c
 
 
