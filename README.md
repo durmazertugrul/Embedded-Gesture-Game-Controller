@@ -119,5 +119,9 @@ Assets/
 
 ![Demo](media/demo.mp4)
 
+https://github.com/user-attachments/assets/0f3273d9-c59d-4467-88b4-2fa524457f1c
+
+
+
 
 *This project was built as a mandatory assignment for the Introduction to Embedded Systems course. My primary focus is game development — this repo demonstrates cross-domain work combining embedded hardware with Unity.*
